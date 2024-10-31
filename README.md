@@ -78,6 +78,3 @@ pip install -r requirements.txt
 
 ## Known Issues
 - If ADB is not set up correctly, the tool will not detect connected devices. Ensure that ADB is installed and accessible from the command line.
-
-## License
-MIT License. See [LICENSE](LICENSE) for more information.
