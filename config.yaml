@@ -1,0 +1,8 @@
+# config.yaml
+devices:
+  - id: "192.168.0.101"       # IP or Device ID for Device 1
+  - id: "25281JEGR07570"       # Device ID for Device 2
+
+settings:
+  save_to_output: true         # If true, saves extracted APK to output folder
+output_folder: "output"        # Folder where extracted APKs will be saved
